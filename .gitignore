@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset (auto-downloaded)
+data/
+
+# Trained models (too large for git)
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files (generated during training)
+sample_outputs.txt
+experiment_results.txt
